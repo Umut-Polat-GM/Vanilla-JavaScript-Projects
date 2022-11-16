@@ -206,7 +206,7 @@ main {
   margin-bottom: 2.5rem;
 }
 .color {
-  color: var(--clr-primary-5);
+  color: var(--clr-white);
 }
 .btn-hero {
   font-family: var(--ff-primary);
