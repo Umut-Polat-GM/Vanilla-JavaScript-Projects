@@ -184,7 +184,15 @@ main {
   border-radius: var(--radius);
   margin: 0.5rem;
 }
-.btn:hover {
+.reset:hover {
   color: var(--clr-white);
+  background: var(--clr-black);
+}
+.decrease:hover {
+  color: var(--clr-red-light);
+  background: var(--clr-black);
+}
+.increase:hover {
+  color: var(--clr-green-light);
   background: var(--clr-black);
 }
