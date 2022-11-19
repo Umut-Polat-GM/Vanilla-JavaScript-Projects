@@ -45,15 +45,15 @@ const  job = document.getElementById("job");
 const  info = document.getElementById("info");
 
 const prevBtn = document.querySelector('.prev-btn');
-const newxtBtn = document.querySelector('.next-btn');
+const nextBtn = document.querySelector('.next-btn');
 const randomBtn = document.querySelector('.random-btn');
 
 //set starting item
-let currentItem = 0;
+let currentItem = Math.floor(Math.random()* reviews.length); //start with random variable
 
 //load intial item
 window.addEventListener("DOMContentLoaded", function () {
-  // console.log("shake and bake");
+  
   showPerson();
   
 });
@@ -70,7 +70,7 @@ function showPerson() {
 
 // show next person
 
-newxtBtn.addEventListener('click', function() {
+nextBtn.addEventListener('click', function() {
   currentItem++;
   if(currentItem > reviews.length - 1){
     currentItem = 0;
@@ -80,7 +80,7 @@ newxtBtn.addEventListener('click', function() {
 
 // show prev person
 
-newxtBtn.addEventListener('click', function() {
+prevBtn.addEventListener('click', function() {
   currentItem--;
   if(currentItem < 0){
     currentItem = reviews.length - 1;
