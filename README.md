@@ -4,3 +4,4 @@ I am improving my javascript skills with these projects.
 - Counter
 - Review
 - Navbar
+- Sidebar
