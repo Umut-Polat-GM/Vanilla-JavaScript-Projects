@@ -12,3 +12,4 @@ I took from John Smilga github:https://github.com/john-smilga/javascript-basic-p
 8. Menu
 9. Video
 10. Scroll
+11. Tabs
