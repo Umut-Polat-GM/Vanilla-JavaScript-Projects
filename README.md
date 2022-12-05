@@ -13,3 +13,4 @@ I took from John Smilga github:https://github.com/john-smilga/javascript-basic-p
 9. Video
 10. Scroll
 11. Tabs
+12. Countdown - Timer
