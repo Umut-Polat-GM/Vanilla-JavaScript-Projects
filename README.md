@@ -17,3 +17,4 @@ I took from John Smilga github:https://github.com/john-smilga/javascript-basic-p
 13. Lorem-Ipsum
 14. Grocery-Bud
 15. Slider
+16. Double Counter
