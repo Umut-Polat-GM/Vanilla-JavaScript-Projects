@@ -1,4 +1,4 @@
-//this function allows us to access the DOM
+//this function allow us to access the DOM
 function getElement(selection) {
     const element = document.querySelector(selection)
     if(element){
