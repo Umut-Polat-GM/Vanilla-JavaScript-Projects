@@ -19,3 +19,4 @@ I took from John Smilga github:https://github.com/john-smilga/javascript-basic-p
 15. Slider
 16. Double Counter
 17. Gallery
+18. Numbers
