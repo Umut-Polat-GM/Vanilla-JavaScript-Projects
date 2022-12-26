@@ -21,3 +21,4 @@ I took from John Smilga github:https://github.com/john-smilga/javascript-basic-p
 17. Gallery
 18. Numbers
 19. Dark-Mode
+20. Filters
